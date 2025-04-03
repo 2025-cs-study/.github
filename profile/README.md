@@ -1,6 +1,6 @@
 # 🐙 긴 문어발(Long Octopus Leg)
 
-![image](https://github.com/user-attachments/assets/986f6782-8683-4342-a8ea-5d3644aefa6c)
+![제목 없는 디자인 (3)](https://github.com/user-attachments/assets/147e4588-6d2f-4808-b7ce-f9887b23b1b9)
 
 ## 👋 팀 소개
 안녕하세요! 문어발 확장에서 따온 **긴 문어발🐙** 팀입니다. 저희는 백엔드 기술과 아키텍처를 깊이 있게 탐구하고 습득하는 것을 목표로 하는 스터디 그룹입니다. 다양한 백엔드 기술 스택을 다루며, 실무에 적용 가능한 지식과 경험을 쌓아가고 있습니다.
